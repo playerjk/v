@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:884672
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-SYSTEM-INFO:Play-On="FPT Play",Provider="FPT Telecom"
+#EXTINF:6.0,
+https://video.wixstatic.com/video/5eb520_2d10842f7c654c1eb6fdb0fe1ba54cc4/1080p/mp4/file.mp4
+#EXTINF:6.0,
+https://video.wixstatic.com/video/5eb520_2d10842f7c654c1eb6fdb0fe1ba54cc4/1080p/mp4/file.mp4
+#EXTINF:6.0,
+https://video.wixstatic.com/video/5eb520_2d10842f7c654c1eb6fdb0fe1ba54cc4/1080p/mp4/file.mp4
+#EXTINF:6.0,
+https://video.wixstatic.com/video/5eb520_2d10842f7c654c1eb6fdb0fe1ba54cc4/1080p/mp4/file.mp4
+#EXTINF:6.0,
+https://video.wixstatic.com/video/5eb520_2d10842f7c654c1eb6fdb0fe1ba54cc4/1080p/mp4/file.mp4
+#EXTINF:6.0,
+https://video.wixstatic.com/video/5eb520_2d10842f7c654c1eb6fdb0fe1ba54cc4/1080p/mp4/file.mp4
